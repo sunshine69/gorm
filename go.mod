@@ -3,6 +3,7 @@ module github.com/jinzhu/gorm
 go 1.12
 
 require (
+	github.com/CovenantSQL/go-sqlite3-encrypt v1.9.0 // indirect
 	github.com/denisenkom/go-mssqldb v0.0.0-20191124224453-732737034ffd
 	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5
 	github.com/go-sql-driver/mysql v1.5.0
