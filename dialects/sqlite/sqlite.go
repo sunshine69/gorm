@@ -1,3 +1,3 @@
 package sqlite
 
-import _ "github.com/CovenantSQL/go-sqlite3-encrypt"
+import _ "github.com/mutecomm/go-sqlcipher/v4"
